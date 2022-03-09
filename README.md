@@ -29,7 +29,7 @@ npm run lint
 
 ### Screenshot
 
-<img src="https://raw.githubusercontent.com/ArnasLuksas/to-do-list/tree/main/src/assets/todolist.png" alt="to do list" > 
+<img src="https://github.com/ArnasLuksas/to-do-list/blob/main/src/assets/todolist.png" alt="to do list" > 
 
 
 ### Built with
